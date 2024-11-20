@@ -4,14 +4,14 @@ version: 3.3.9
 repository: https://github.com/gameticharles/advance_math
 
 environment:
-  sdk: ">=3.5.4"
+  sdk: ">=3.5.0"
 
 documentation: "https://github.com/gameticharles/advance_math"
 
 dependencies:
   buffer: ^1.2.2
   decimal: ^2.3.3
-  intl: ^0.19.0
+  intl: ^0.18.1
   logging: ^1.2.0
 
 
